@@ -3,7 +3,7 @@ public class singleton : MonoBehaviour
 {
     private static singleton instance = null;
     private  string text;
-    public static singleton Ýnstance
+    public static singleton Instance
     {
         get
         {
